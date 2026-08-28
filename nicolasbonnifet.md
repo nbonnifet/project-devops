@@ -1,4 +1,5 @@
 # Project-DevOps
+@author: <nicolas.bonnifet2025@campus-eni.fr>
 Groupe Maël NOUVEL, Corentin Bédel et Nicolas Bonnifet
 
 Documentation : Assistée par Claude Sonnet 5 - Effort medium (et pas gpt-4o-mini, on a les moyens ici!)
